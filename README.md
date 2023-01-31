@@ -1,5 +1,4 @@
 # projeto-html-front-end
-Projeto HTML sobre resumo do conteúdo ensinado.
 <html> 
     <head>
     <title>Projeto HTML</title>
